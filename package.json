@@ -1,0 +1,15 @@
+{
+  "name": "kata-express",
+  "version": "1.0.0",
+  "description": "​\r -1. Inicializa un proyecto de node.js 0. crea un boilerplate de express donde definir las siguientes rutas:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
