@@ -77,7 +77,7 @@ app.put('/number/:oldNumber/:newNumber', (req, res) => {
 
 app.post('/countFields', (req, res) => {
   let respuesta = Object.keys(req.body).length
-  res.send(respuesta)
+  res.send(respuesta.toString())
 })
 
 app.post('/createUser', (req, res) => {
